@@ -1,0 +1,18 @@
+h1{
+  color: green;
+  font-size: 100px;
+}
+
+
+img{
+  background-color: green;
+  width: 215px;
+}
+
+
+/****************CLASS SELECTOR*****************/
+
+.broa:hover{
+  background-color: orange;
+  width: 215px;
+}
