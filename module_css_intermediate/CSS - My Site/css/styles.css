@@ -1,0 +1,60 @@
+.main-container {
+  background-color: #E4F9F5;
+}
+.top-container{
+  background-color: #E4F9F5;
+  width: 100%;
+  display: inline-block;
+  text-align: center;
+}
+
+.middle-container {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+
+.bottom-container {
+  width: 200px;
+  height: 200px;
+  background-color: purple;
+}
+
+
+h1 {
+  color: #0779e4;
+  margin-top: 0;
+  font-family: sans-serif;
+}
+
+p {
+  color: #0779e4;
+  width: 100%;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+body {
+  margin: 0;
+}
+
+.shenlong-img {
+  margin-top: 5%;
+}
+
+.esfera-img {
+  margin-left: 15px;
+  margin-right: 15px;
+  width: 120px;
+}
+
+.goku_img {
+  width: 200px;
+  display: inline-block;
+}
+
+.table-goku {
+  position: relative;
+  left: 40%;
+  top: 5%;
+}
